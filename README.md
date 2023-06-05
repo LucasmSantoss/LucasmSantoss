@@ -32,5 +32,9 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-%23E34F26.svg?style=for-the-badge&logo=postman&logoColor=white)
 
+
+
 ### Estadísticas:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LucasmSantoss&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
