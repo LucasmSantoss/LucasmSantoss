@@ -1,4 +1,5 @@
-### Hi there 👋 My name is Lucas Matias Santos, and I am a Full Stack MERN Developer & Mobile apps.
+### Hi there 👋 My name is Lucas Matias Santos
+  Full Stack MERN Developer & Mobile apps.
   
 <!--
 **LucasmSantoss/LucasmSantoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
