@@ -31,3 +31,11 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-%23E34F26.svg?style=for-the-badge&logo=postman&logoColor=white)
+
+### Estadísticas:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Alexis196&theme=javascript-dark&hide_border=FALSO&border_radius=4.2&locale=es&date_format=M%20j%5B%2C%20Y%5D&card_width=495)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexis196&show_icons=true&theme=merko)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis196&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
