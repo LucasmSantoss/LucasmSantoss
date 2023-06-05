@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Lucas Matias Santos, and I am a Full Stack MERN Developer & Mobile apps. I develop my applications using these technologies: HTML5, CSS3, JavaScript, Tailwind, React, React Native, Express, MongoDB, NodeJS, Redux, Redux Toolkit, and GitHub.
+### Hi there 👋 My name is Lucas Matias Santos, and I am a Full Stack MERN Developer & Mobile apps.
   
 <!--
 **LucasmSantoss/LucasmSantoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,5 +29,4 @@ Here are some ideas to get you started:
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-%23E34F26.svg?style=for-the-badge&logo=postman&logoColor=white)
