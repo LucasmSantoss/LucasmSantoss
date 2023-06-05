@@ -41,3 +41,15 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasmSantoss)](https://github.com/LucasmSantoss/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasmSantoss&layout=donut-vertical)](https://github.com/LucasmSantoss/github-readme-stats)
+
+
+### Contact me:
+<p align="left">
+<a href="https://www.linkedin.com/in/alexis-franco196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-santos-b133001b9/" height="30" width="40" /></a>
+<a href="lucasmsantoss95@hotmail.com" target="blank">
+    <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png" alt="logoGmail" height="40" width="40" />
+</a>
+<a href="https://drive.google.com/file/d/1Gvy8oghilHP-B1apUQM0b1O8hMEKf4Pl/view" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/608/608986.png" alt="CV" height="40" width="40" />
+</a>
+</p>
