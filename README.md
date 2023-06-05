@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+  My name is Lucas Matias Santos, and I am a Full Stack MERN Developer & Mobile apps. I develop my applications using these technologies: HTML5, CSS3, JavaScript, Tailwind, React, React Native, Express, MongoDB, NodeJS, Redux, Redux Toolkit, and GitHub.
 <!--
 **LucasmSantoss/LucasmSantoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
