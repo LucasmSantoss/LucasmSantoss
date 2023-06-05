@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400" height="400"/>
+    <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400" height="300"/>
     <h1 align="center">Hi 👋, I'm Lucas Santos</h1>
     <h3 align="center">Full Stack MERN & mobile apps developer.</h3>
 </div>
