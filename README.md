@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ### Contact me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/alexis-franco196/" target="blank" style="padding: 5px;">
+  <a href="https://www.linkedin.com/in/lucas-santos-b133001b9/" target="blank" style="padding: 5px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-santos-b133001b9/" height="30" width="40" />
   </a>
   <a href="lucasmsantoss95@hotmail.com" target="blank" style="padding: 5px;">
